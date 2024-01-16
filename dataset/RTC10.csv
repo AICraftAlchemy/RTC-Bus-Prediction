@@ -1,0 +1,104 @@
+Bus.no,Boarding _point,Time,capacity,Traffic,College
+242A,Ecil,08:00,medium,light,yes
+242A,Chakripuram,08:15,high,light,yes
+242,Ecil,07:30,low,light,yes
+241T,Rampally,08:45,medium,light,yes
+241T,Ecil,08:30,high,heavy,no
+242RG,Ecil,07:50,high,light,yes
+242B,Kushaiguda,08:00,medium,heavy,yes
+497,Ecil,09:00,low,light,no
+241T,Bandlaguda,08:50,high,light,yes
+17H/242,Ecil,08:30,medium,heavy,no
+570,Ecil,12:00,low,light,no
+573,Kushaiguda,08:10,low,heavy,yes
+3K/242,Rampally,08:40,low,light,yes
+242A,Nagaram,07:40,high,light,yes
+281,Ecil,08:05,high,light,yes
+241T,Ecil,08:40,medium,light,no
+241,Kushaiguda,08:25,high,light,yes
+242BG,Nagaram,08:40,high,light,no
+16A/281,Ecil,08:35,medium,heavy,no
+578,Nagaram,08:15,high,light,yes
+241,Ecil,08:10,low,light,yes
+241T,Cheeryal,08:50,high,light,yes
+242A,Ecil,07:40,medium,heavy,yes
+242B,Nagaram,08:10,medium,light,yes
+242B,Ecil,09:00,low,heavy,no
+242RG,Ecil,09:30,medium,light,no
+17H/242,Ecil,08:25,high,heavy,yes
+573,Kushaiguda,07:30,low,light,yes
+3K/242,Chakripuram,08:40,high,heavy,no
+497,Ecil,09:00,low,light,no
+479,Nagaram,09:30,low,light,no
+497,Kushaiguda,09:15,medium,heavy,no
+577,Ecil,07:00,low,light,yes
+578,Chakripuram,08:40,low,light,yes
+578,Nagaram,08:50,high,light,no
+580,Ecil,07:00,low,light,yes
+281,Ecil,07:30,high,light,yes
+16A/281,Kushaiguda,08:00,high,heavy,yes
+577,Chakripuram,13:00,low,light,no
+578,Nagaram,14:00,low,light,no
+242A,Ecil,12:45,medium,light,no
+242RG,Kushaiguda,10:30,low,heavy,no
+242BG,Chakripuram,11:45,high,light,no
+241T,Ecil,15:30,low,light,no
+241,Ecil,08:10,medium,light,yes
+90L/241,Chakripuram,08:35,medium,heavy,yes
+497,Ecil,15:30,low,light,no
+570,Ecil,11:00,low,light,no
+242BG,Bandlaguda,11:30,medium,light,no
+242,Nagaram,10:30,medium,light,no
+241T,Kushaiguda,15:40,medium,light,no
+281,Chakripuram,08:20,high,light,yes
+242B,Nagaram,07:50,medium,heavy,yes
+90L/421,Chakripuram,08:45,low,light,yes
+90L/241,Nagaram,08:37,low,light,yes
+241,Ecil,08:20,high,heavy,yes
+241,Chakripuram,08:35,high,light,yes
+242A,Kushaiguda,12:15,low,light,no
+241T,Ecil,08:40,low,light,no
+241T,Ecil,08:50,low,light,no
+241T,Ecil,08:35,low,heavy,no
+242RG,Chakripuram,07:35,low,heavy,yes
+242RG,Nagaram,07:50,medium,light,yes
+579,Kushaiguda,13:00,low,light,no
+241,Ecil,08:06,high,heavy,yes
+242B,Kushaiguda,10:45,high,light,no
+242,Ecil,10:31,low,light,no
+580,Nagaram,07:10,low,light,yes
+16A/281,Chakripuram,08:00,high,heavy,yes
+281,Ecil,08:05,high,light,yes
+281,Chakripuram,12:00,medium,light,no
+241,Kushaiguda,08:15,low,heavy,yes
+241T,Bandlaguda,08:38,high,light,yes
+242A,Nagaram,07:53,high,heavy,yes
+242B,Kushaiguda,08:13,medium,light,yes
+242A,Chakripuram,16:00,low,heavy,no
+241T,Ecil,08:55,Medium,heavy,no
+281,Nagaram,15:13,medium,light,no
+16A/281,Kushaiguda,16:00,low,heavy,no
+17H/242,Kushaiguda,08:11,medium,heavy,yes
+241,Ecil,08:06,high,light,yes
+241,Kushaiguda,08:11,high,high,yes
+242B,Ecil,08:16,low,heavy,yes
+577,Chakripuram,08:17,medium,light,yes
+578,Rampally,07:59,low,heavy,yes
+242RG,Kushaiguda,07:58,medium,heavy,yes
+242,Ecil,08:00,high,light,yes
+242BG,Chakripuram,08:07,high,heavy,yes
+242B,Rampally,08:09,medium,light,yes
+242RG,Ecil,13:08,low,light,no
+241,Rampally ,08:40,high,heavy ,yes
+578,Nagaram,08:33,low,light,yes
+577,Rampally ,16:06,low,heavy ,no
+242BG,Chakripuram ,07:58,low,heavy ,yes
+241,Ecil,08:11,high ,light ,yes
+242B,Nagaram ,08:45,low,light ,no
+242,Chakripuram ,07:59,high ,heavy ,yes
+578,Bandlaguda ,08:47,high ,light ,yes
+497,Kushaiguda ,06:05,low ,light ,yes
+242,Ecil,08:19,high,heavy,yes
+578,Chakripuram,08:31,low,light,yes
+242BG,Rampally,08:22,high,heavy,yes
+241T,Kushaiguda,08:53,high,heavy,yes
